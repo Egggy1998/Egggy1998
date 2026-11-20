@@ -34,6 +34,12 @@ Ask Claude or ChatGPT which Meta and TikTok ads your competitors keep running; g
 
 <br>
 
+**[Hermes Agency Agents](https://github.com/Egggy1998/hermes-agency-agents)** — 324 expert personas for one agent  
+A plugin pair that gives Hermes Agent an entire agency roster — 324 specialists across 22 divisions, 23 team presets, an avatar each. The hard part wasn't the list, it was the loading model: personas load on demand, so the model never carries 324 skills in its context window. Ported from the DeepSeek Harness plugin, MIT.  
+`Hermes plugin` · `Python` · `ESM desktop UI` · `Lazy persona loading` · `DiceBear`
+
+<br>
+
 **[Tamago Studio](https://tamago-4b6.pages.dev/studio)** — Infinite node-canvas for AI media  
 Drag-and-drop canvas that routes across 13 image and video models with cost-aware fallback. ~40% lower render cost than calling each provider directly.  
 `React` · `Node Canvas` · `API routing` · `Design System`
