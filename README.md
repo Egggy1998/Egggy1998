@@ -29,7 +29,7 @@ Three layers:
 ### Flagship work
 
 **[AdRadar](https://adradarmcp.cloud/en/)** — Competitor ad intelligence for AI agents  
-Ask Claude or ChatGPT which Meta and TikTok ads your competitors keep running; get them scored and explained. Hosted MCP server, OAuth 2.1, listed on the official MCP Registry.  
+Ask Claude or ChatGPT which Meta and TikTok ads your competitors keep running; get them scored and explained. Hosted as an MCP server with OAuth 2.1, listed on the official MCP Registry.  
 `MCP` · `Streamable HTTP` · `OAuth 2.1` · `Meta Ad Library` · `TikTok Creative Center`
 
 <br>
@@ -67,8 +67,8 @@ Because the built-in Sticky Notes still hasn't learned to stay on top or keep it
 ### By the numbers
 
 - **10,000+** posts published through the automation engine I built — **99.9% uptime**
-- **3/3** commercial TVCs for VNPT delivered 100% with GenAI
-- **13** AI models orchestrated behind one interface, **~40%** render cost reduced
+- **3/3** TVC commercials for VNPT delivered 100% with GenAI
+- **13** AI models orchestrated behind one interface — **~40%** cheaper rendering
 - **0** servers I log into on weekends <sub>(aspiration, not always reality)</sub>
 
 ---
