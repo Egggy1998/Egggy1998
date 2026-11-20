@@ -48,12 +48,13 @@ Because the built-in Sticky Notes still hasn't learned to stay on top or keep it
 
 ### Stack
 
-| | |
-|---|---|
-| **AI & agents** | LLM tool-calling · MCP · RAG / vector DB · n8n · prompt engineering |
-| **Frontend** | Next.js 14 · React · TypeScript · Tailwind · Figma design systems |
-| **Backend** | Python · Node.js · PostgreSQL · FFmpeg · REST APIs |
-| **Media** | GenAI video (Veo, Kling, Seedance) · virtual KOL pipelines · character consistency |
+**AI & agents** — LLM tool-calling · MCP · RAG / vector DB · n8n · prompt engineering
+
+**Frontend** — Next.js 14 · React · TypeScript · Tailwind · Figma design systems
+
+**Backend** — Python · Node.js · PostgreSQL · FFmpeg · REST APIs
+
+**Media** — GenAI video (Veo, Kling, Seedance) · virtual KOL pipelines · character consistency
 
 ---
 
