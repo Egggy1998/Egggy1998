@@ -28,26 +28,26 @@ Three layers:
 
 ### Flagship work
 
-**[AdRadar](https://adradarmcp.cloud/en/)** — Competitor ad intelligence for AI agents
-Ask Claude or ChatGPT which Meta and TikTok ads your competitors keep running; get them scored and explained. Hosted MCP server, OAuth 2.1, listed on the official MCP Registry.
+**[AdRadar](https://adradarmcp.cloud/en/)** — Competitor ad intelligence for AI agents  
+Ask Claude or ChatGPT which Meta and TikTok ads your competitors keep running; get them scored and explained. Hosted MCP server, OAuth 2.1, listed on the official MCP Registry.  
 `MCP` · `Streamable HTTP` · `OAuth 2.1` · `Meta Ad Library` · `TikTok Creative Center`
 
 <br>
 
-**[Tamago Studio](https://tamago-4b6.pages.dev/studio)** — Infinite node-canvas for AI media
-Drag-and-drop canvas that routes across 13 image and video models with cost-aware fallback. ~40% lower render cost than calling each provider directly.
+**[Tamago Studio](https://tamago-4b6.pages.dev/studio)** — Infinite node-canvas for AI media  
+Drag-and-drop canvas that routes across 13 image and video models with cost-aware fallback. ~40% lower render cost than calling each provider directly.  
 `React` · `Node Canvas` · `API routing` · `Design System`
 
 <br>
 
-**[Smart Orbit](https://orbit.smartmedia.vn)** — Multi-channel publishing hub
-Visual scheduler for releasing content across channels. Passed Google's security audit for official YouTube Data API quota — the unglamorous part most teams fail.
+**[Smart Orbit](https://orbit.smartmedia.vn)** — Multi-channel publishing hub  
+Visual scheduler for releasing content across channels. Passed Google's security audit for official YouTube Data API quota — the unglamorous part most teams fail.  
 `Next.js 14` · `Google OAuth` · `YouTube Data API` · `Scheduler`
 
 <br>
 
-**[FrogiNotes](https://froginotes.pages.dev)** — Pastel desktop notes for Windows
-Because the built-in Sticky Notes still hasn't learned to stay on top or keep its data. Local-first, no account, no telemetry.
+**[FrogiNotes](https://froginotes.pages.dev)** — Pastel desktop notes for Windows  
+Because the built-in Sticky Notes still hasn't learned to stay on top or keep its data. Local-first, no account, no telemetry.  
 `Electron` · `TypeScript` · `Zustand` · `Cloudflare Pages`
 
 ---
